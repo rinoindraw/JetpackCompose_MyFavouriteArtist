@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyFavouriteArtistCompose</string>
+
+    <string name="scroll_to_top">Scroll To Top</string>
+    <string name="search_artist">Find Your Artist</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_about">About Me</string>
+    <string name="back">Back</string>
+    <string name="my_name">Rino Indra Wicaksono</string>
+    <string name="email">rinoindra75@gmail.com</string>
+    <string name="my_desc">An Undergraduate Computer System student who wants to gain experience and really interested in Programming. I am a person who likes to look for opportunities and can work in a team.</string>
+    <string name="bangkit_desc">Bangkit Cohort</string>
+</resources>
